@@ -1,9 +1,9 @@
 # Node.js Express Tutorial
 
-A small Node.js tutorial server built with the [Express.js](https://expressjs.com/)
-web framework. It exposes two HTTP `GET` endpoints, each of which returns a
-plain-text greeting, and is intended as a minimal starting point for learning
-how Express routes incoming requests and produces responses.
+A small Node.js tutorial server built with the Express.js web framework. It
+exposes two HTTP `GET` endpoints, each of which returns a plain-text greeting,
+and is intended as a minimal starting point for learning how Express routes
+incoming requests and produces responses.
 
 ## Prerequisites
 
@@ -103,4 +103,4 @@ configured port.
 
 ## License
 
-Released under the [ISC](https://opensource.org/licenses/ISC) license.
+Released under the ISC license.
